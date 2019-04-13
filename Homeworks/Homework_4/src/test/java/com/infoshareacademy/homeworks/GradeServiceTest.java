@@ -1,10 +1,14 @@
 package com.infoshareacademy.homeworks;
+//test
 
-import static org.assertj.core.api.Assertions.assertThat;
 
 import org.junit.jupiter.api.Test;
 
+import static org.assertj.core.api.Assertions.assertThat;
+
 public class GradeServiceTest {
+
+    int i;
 
     private GradeService gradeService = new GradeService();
 
